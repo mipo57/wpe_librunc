@@ -57,7 +57,7 @@ func revisePidFile(pidFile string) (string, error) {
 }
 
 // loadFactory returns the configured factory instance for execing containers.
-func loadFactory(root string, rootless bool, systemd_cgroup bool, criu: string) (libcontainer.Factory, error) {
+func loadFactory(root string, rootless bool, systemd_cgroup bool, criu string) (libcontainer.Factory, error) {
 	abs, err := filepath.Abs(root)
 	if err != nil {
 		return nil, err
@@ -121,11 +121,11 @@ func Create(name string, cPath string, rootless bool) error {
 		return err
 	}
 
-	factory, err := loadFactory(context)
+	factory, err := loadFactory("", false, false, "/tmp")
 	if err != nil {
 		return err
 	}
-	return factory.Create(id, config)
+	// return factory.Create(id, config)
 
 	return nil
 }
