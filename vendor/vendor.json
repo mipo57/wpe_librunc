@@ -1,0 +1,315 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "k3xD77kpUpECrHCffQKb1nttiDM=",
+			"path": "github.com/checkpoint-restore/go-criu/rpc",
+			"revision": "fcdcd07065c53d84c8861c587779c0173c0e06cd",
+			"revisionTime": "2019-11-25T06:36:57Z"
+		},
+		{
+			"checksumSHA1": "j2gWnv7YL/jjX/gmQf1Mck83yM8=",
+			"path": "github.com/cilium/ebpf",
+			"revision": "60c3aa43f488292fe2ee50fb8b833b383ca8ebbb",
+			"revisionTime": "2019-12-02T17:25:49Z"
+		},
+		{
+			"checksumSHA1": "tLR/AafTwkCaWEE1goZ+9SUlenA=",
+			"path": "github.com/cilium/ebpf/asm",
+			"revision": "60c3aa43f488292fe2ee50fb8b833b383ca8ebbb",
+			"revisionTime": "2019-12-02T17:25:49Z"
+		},
+		{
+			"checksumSHA1": "4Ukptk4H6WofmUrlDAI3qAwVSi4=",
+			"path": "github.com/cilium/ebpf/internal",
+			"revision": "60c3aa43f488292fe2ee50fb8b833b383ca8ebbb",
+			"revisionTime": "2019-12-02T17:25:49Z"
+		},
+		{
+			"checksumSHA1": "NUV0GweNSafh3h9Fb5ZLl91oDOw=",
+			"path": "github.com/cilium/ebpf/internal/unix",
+			"revision": "60c3aa43f488292fe2ee50fb8b833b383ca8ebbb",
+			"revisionTime": "2019-12-02T17:25:49Z"
+		},
+		{
+			"checksumSHA1": "O2APBUhpp9ZQj0w/1vCHSt4rqzM=",
+			"path": "github.com/containerd/console",
+			"revision": "02ecf6a7291e65f4a361525245c2bea023dc2e0b",
+			"revisionTime": "2019-12-06T16:50:04Z"
+		},
+		{
+			"checksumSHA1": "zx3XLDZzMknp9rkqfUXKGYUHcgA=",
+			"path": "github.com/coreos/go-systemd/activation",
+			"revision": "2d78030078ef61b3cae27f42ad6d0e46db51b339",
+			"revisionTime": "2019-11-11T15:26:58Z"
+		},
+		{
+			"checksumSHA1": "tswa/u4/mLp8dh45o4udFDMf7ys=",
+			"path": "github.com/coreos/go-systemd/dbus",
+			"revision": "2d78030078ef61b3cae27f42ad6d0e46db51b339",
+			"revisionTime": "2019-11-11T15:26:58Z"
+		},
+		{
+			"path": "github.com/cpuguy83/go-md2man/v2/md2man",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "Ov+ja3hmONKxbhq9HAgK/vHSi/0=",
+			"path": "github.com/cyphar/filepath-securejoin",
+			"revision": "7efe413b52e1bceaaee7efafebe396f9d648f258",
+			"revisionTime": "2019-02-05T14:40:30Z"
+		},
+		{
+			"checksumSHA1": "uJpTEqskmHWciK0+gjsnpRHXq7k=",
+			"path": "github.com/docker/go-units",
+			"revision": "519db1ee28dcc9fd2474ae59fca29a810482bfb1",
+			"revisionTime": "2019-04-23T14:49:23Z"
+		},
+		{
+			"checksumSHA1": "4Sf+mwK6gnaCYIcunNx55OmbvZE=",
+			"path": "github.com/godbus/dbus",
+			"revision": "a8b3a8e50eb5204a36884e2ba6a445e020b04042",
+			"revisionTime": "2019-12-04T12:44:59Z"
+		},
+		{
+			"path": "github.com/godbus/dbus/v5",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "Q3FteGbNvRRUMJqbYbmrcBd2DMo=",
+			"path": "github.com/golang/protobuf/proto",
+			"revision": "ed6926b37a637426117ccab59282c3839528a700",
+			"revisionTime": "2019-10-22T19:55:53Z"
+		},
+		{
+			"checksumSHA1": "Aulh7C5SVOA4Jzt5eHNH6197Mbk=",
+			"path": "github.com/konsorten/go-windows-terminal-sequences",
+			"revision": "f55edac94c9bbba5d6182a4be46d86a2c9b5b50e",
+			"revisionTime": "2019-02-26T22:47:05Z"
+		},
+		{
+			"checksumSHA1": "WmO6bE5oONg3/8HazAAIshRZAtU=",
+			"path": "github.com/mrunalp/fileutils",
+			"revision": "7d4729fb36185a7c1719923406c9d40e54fb93c7",
+			"revisionTime": "2017-11-03T03:01:05Z"
+		},
+		{
+			"checksumSHA1": "2Ma4hRoCZ1WBbcN5AnttOZ13h2Y=",
+			"path": "github.com/opencontainers/runc",
+			"revision": "201b06374548b64212f4ceb1529688d435e42899",
+			"revisionTime": "2019-12-06T22:32:58Z"
+		},
+		{
+			"checksumSHA1": "ohmjV4sqNcz+ldNmEL3ebtjW7b8=",
+			"path": "github.com/opencontainers/runc/libcontainer",
+			"revision": "201b06374548b64212f4ceb1529688d435e42899",
+			"revisionTime": "2019-12-06T22:32:58Z"
+		},
+		{
+			"checksumSHA1": "P9MzUNmuDE1S9bE27b84GDNWhAM=",
+			"path": "github.com/opencontainers/runc/libcontainer/apparmor",
+			"revision": "201b06374548b64212f4ceb1529688d435e42899",
+			"revisionTime": "2019-12-06T22:32:58Z"
+		},
+		{
+			"checksumSHA1": "Zy8gENolnBlMHNV7gsCUbkSaQ3o=",
+			"path": "github.com/opencontainers/runc/libcontainer/cgroups",
+			"revision": "201b06374548b64212f4ceb1529688d435e42899",
+			"revisionTime": "2019-12-06T22:32:58Z"
+		},
+		{
+			"checksumSHA1": "YpocUd3rp+Asu5DwjfMBrDeB+Rs=",
+			"path": "github.com/opencontainers/runc/libcontainer/cgroups/ebpf",
+			"revision": "201b06374548b64212f4ceb1529688d435e42899",
+			"revisionTime": "2019-12-06T22:32:58Z"
+		},
+		{
+			"checksumSHA1": "DXUp/Mdc0j1IMYb53+AK3KquagQ=",
+			"path": "github.com/opencontainers/runc/libcontainer/cgroups/ebpf/devicefilter",
+			"revision": "201b06374548b64212f4ceb1529688d435e42899",
+			"revisionTime": "2019-12-06T22:32:58Z"
+		},
+		{
+			"checksumSHA1": "qB0e5ucA5n0VewSqL6mZgadU32A=",
+			"path": "github.com/opencontainers/runc/libcontainer/cgroups/fs",
+			"revision": "201b06374548b64212f4ceb1529688d435e42899",
+			"revisionTime": "2019-12-06T22:32:58Z"
+		},
+		{
+			"checksumSHA1": "c3qgxo8JzeAaJTbL7kxBqhy8KMI=",
+			"path": "github.com/opencontainers/runc/libcontainer/cgroups/systemd",
+			"revision": "201b06374548b64212f4ceb1529688d435e42899",
+			"revisionTime": "2019-12-06T22:32:58Z"
+		},
+		{
+			"checksumSHA1": "Ur7WrTQCqLtwG+xYz4QSYzSdcpY=",
+			"path": "github.com/opencontainers/runc/libcontainer/configs",
+			"revision": "201b06374548b64212f4ceb1529688d435e42899",
+			"revisionTime": "2019-12-06T22:32:58Z"
+		},
+		{
+			"checksumSHA1": "hUveFGK1HhGenf0OVoYZWccoW9I=",
+			"path": "github.com/opencontainers/runc/libcontainer/configs/validate",
+			"revision": "201b06374548b64212f4ceb1529688d435e42899",
+			"revisionTime": "2019-12-06T22:32:58Z"
+		},
+		{
+			"checksumSHA1": "sAbowQ7hjveSH5ADUD9IYXnEAJM=",
+			"path": "github.com/opencontainers/runc/libcontainer/intelrdt",
+			"revision": "201b06374548b64212f4ceb1529688d435e42899",
+			"revisionTime": "2019-12-06T22:32:58Z"
+		},
+		{
+			"checksumSHA1": "mKxBw0il2IWjWYgksX+17ufDw34=",
+			"path": "github.com/opencontainers/runc/libcontainer/keys",
+			"revision": "201b06374548b64212f4ceb1529688d435e42899",
+			"revisionTime": "2019-12-06T22:32:58Z"
+		},
+		{
+			"checksumSHA1": "mBbwlspKSImoGTw4uKE40AX3PYs=",
+			"path": "github.com/opencontainers/runc/libcontainer/logs",
+			"revision": "201b06374548b64212f4ceb1529688d435e42899",
+			"revisionTime": "2019-12-06T22:32:58Z"
+		},
+		{
+			"checksumSHA1": "MJiogPDUU2nFr1fzQU6T+Ry1W8o=",
+			"path": "github.com/opencontainers/runc/libcontainer/mount",
+			"revision": "201b06374548b64212f4ceb1529688d435e42899",
+			"revisionTime": "2019-12-06T22:32:58Z"
+		},
+		{
+			"checksumSHA1": "oMR49hCxG9rLI1Vfw4JGfhxWHls=",
+			"path": "github.com/opencontainers/runc/libcontainer/nsenter",
+			"revision": "201b06374548b64212f4ceb1529688d435e42899",
+			"revisionTime": "2019-12-06T22:32:58Z"
+		},
+		{
+			"checksumSHA1": "IkdzLRKkwc4fZYgtdD2OUsh7z1A=",
+			"path": "github.com/opencontainers/runc/libcontainer/seccomp",
+			"revision": "201b06374548b64212f4ceb1529688d435e42899",
+			"revisionTime": "2019-12-06T22:32:58Z"
+		},
+		{
+			"checksumSHA1": "6bMqwNqSD+OXqUO9V6efa1sPTKg=",
+			"path": "github.com/opencontainers/runc/libcontainer/specconv",
+			"revision": "201b06374548b64212f4ceb1529688d435e42899",
+			"revisionTime": "2019-12-06T22:32:58Z"
+		},
+		{
+			"checksumSHA1": "yp/kYBgVqKtxlnpq4CmyxLFMAE4=",
+			"path": "github.com/opencontainers/runc/libcontainer/stacktrace",
+			"revision": "201b06374548b64212f4ceb1529688d435e42899",
+			"revisionTime": "2019-12-06T22:32:58Z"
+		},
+		{
+			"checksumSHA1": "SInqynLK8NjJIeFs0Mtk4g8LJ+A=",
+			"path": "github.com/opencontainers/runc/libcontainer/system",
+			"revision": "201b06374548b64212f4ceb1529688d435e42899",
+			"revisionTime": "2019-12-06T22:32:58Z"
+		},
+		{
+			"checksumSHA1": "mdUukOXCVJxmT0CufSKDeMg5JFM=",
+			"path": "github.com/opencontainers/runc/libcontainer/user",
+			"revision": "201b06374548b64212f4ceb1529688d435e42899",
+			"revisionTime": "2019-12-06T22:32:58Z"
+		},
+		{
+			"checksumSHA1": "83GMf/IG2Ii9t7CsTymqP/qr2z4=",
+			"path": "github.com/opencontainers/runc/libcontainer/utils",
+			"revision": "201b06374548b64212f4ceb1529688d435e42899",
+			"revisionTime": "2019-12-06T22:32:58Z"
+		},
+		{
+			"checksumSHA1": "6y+SmtjFe1i/4hTg15Dj25Jp1TY=",
+			"path": "github.com/opencontainers/runc/types",
+			"revision": "201b06374548b64212f4ceb1529688d435e42899",
+			"revisionTime": "2019-12-06T22:32:58Z"
+		},
+		{
+			"checksumSHA1": "BZP9XI+pJtcUL1aWsLwS2X6ndws=",
+			"path": "github.com/opencontainers/runtime-spec/specs-go",
+			"revision": "19e92ca817772b4466f2ed2b8d808dfb7a8ab4be",
+			"revisionTime": "2019-10-07T14:53:22Z"
+		},
+		{
+			"checksumSHA1": "k5DYSX8QTEm0uhuu7vDx1dBF6jE=",
+			"path": "github.com/opencontainers/selinux/go-selinux",
+			"revision": "00892252b29890b3e67896e56807d0d3ab4676ee",
+			"revisionTime": "2019-11-20T18:09:09Z"
+		},
+		{
+			"checksumSHA1": "juj9FODkh5yOu3YXsJdS/zQbrQE=",
+			"path": "github.com/opencontainers/selinux/go-selinux/label",
+			"revision": "00892252b29890b3e67896e56807d0d3ab4676ee",
+			"revisionTime": "2019-11-20T18:09:09Z"
+		},
+		{
+			"checksumSHA1": "Uy1A2Mv1zW4yURQdwvNpULvD7To=",
+			"origin": "github.com/opencontainers/selinux/vendor/github.com/pkg/errors",
+			"path": "github.com/pkg/errors",
+			"revision": "00892252b29890b3e67896e56807d0d3ab4676ee",
+			"revisionTime": "2019-11-20T18:09:09Z"
+		},
+		{
+			"checksumSHA1": "AOOIZGi2Fvt8tb9ByJKtjAJGDro=",
+			"path": "github.com/seccomp/libseccomp-golang",
+			"revision": "bebea070d2b1ac181c7fedd289305a8fb68e3ddf",
+			"revisionTime": "2017-06-10T05:46:40Z"
+		},
+		{
+			"checksumSHA1": "a+HW4KfxlTA1ExAUrW8w6EKYoxM=",
+			"path": "github.com/sirupsen/logrus",
+			"revision": "67a7fdcf741f4d5cee82cb9800994ccfd4393ad0",
+			"revisionTime": "2019-10-26T11:39:18Z"
+		},
+		{
+			"checksumSHA1": "58nM5+fQZxpweJE2NYhar173MPg=",
+			"path": "github.com/syndtr/gocapability/capability",
+			"revision": "d98352740cb2c55f81556b63d4a1ec64c5a319c2",
+			"revisionTime": "2018-09-16T01:12:48Z"
+		},
+		{
+			"checksumSHA1": "C8MOuW5fVdtVX7W942znIB6gMSQ=",
+			"path": "github.com/urfave/cli",
+			"revision": "42b931bfe711efbe8f30750ffa66af4a21171fe6",
+			"revisionTime": "2019-12-08T08:12:17Z"
+		},
+		{
+			"path": "github.com/urfave/cli/v2",
+			"revision": "42b931bfe711efbe8f30750ffa66af4a21171fe6"
+		},
+		{
+			"checksumSHA1": "pi6oLt52/seOXRpOwqRRGej3IzY=",
+			"path": "github.com/vishvananda/netlink",
+			"revision": "e25c252266f633bfd3d835909014a55d2fbe4a73",
+			"revisionTime": "2019-11-15T11:17:45Z"
+		},
+		{
+			"checksumSHA1": "gycN+BZkfhEtJ3rnDx0OKdI6bsg=",
+			"path": "github.com/vishvananda/netlink/nl",
+			"revision": "e25c252266f633bfd3d835909014a55d2fbe4a73",
+			"revisionTime": "2019-11-15T11:17:45Z"
+		},
+		{
+			"checksumSHA1": "2JtWqlQgnt8B+OetSKTldJpTn9I=",
+			"path": "github.com/vishvananda/netns",
+			"revision": "0a2b9b5464df8343199164a0321edf3313202f7e",
+			"revisionTime": "2019-06-07T11:32:41Z"
+		},
+		{
+			"checksumSHA1": "JHml2PyXsqdDwVyJ+NLwMJTjz9I=",
+			"origin": "github.com/opencontainers/selinux/vendor/golang.org/x/sys/unix",
+			"path": "golang.org/x/sys/unix",
+			"revision": "00892252b29890b3e67896e56807d0d3ab4676ee",
+			"revisionTime": "2019-11-20T18:09:09Z"
+		},
+		{
+			"checksumSHA1": "/2lxeYmsfx264LhkH1fjzJPHrbg=",
+			"path": "golang.org/x/sys/windows",
+			"revision": "ac6580df4449443a05718fd7858c1f91ad5f8d20",
+			"revisionTime": "2019-12-09T02:16:22Z"
+		}
+	],
+	"rootPath": "librunc"
+}
